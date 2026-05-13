@@ -1,1 +1,1 @@
-worker: python password.py
+worker: python bot2.py
