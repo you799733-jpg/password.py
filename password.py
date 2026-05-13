@@ -8,7 +8,7 @@ import hashlib
 import base64
 from datetime import datetime, timedelta
 
-BOT_TOKEN = '8258092241:AAH4k8NPPA-mtTsxjVJn4RkM2I35YllbaXY'
+BOT_TOKEN = '8258092241:AAFFjF3T2RzWkSDDSaOwkW9MNYYTNpk0R9c'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
